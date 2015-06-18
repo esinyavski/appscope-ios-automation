@@ -1,0 +1,8 @@
+<?appscopetestsxml version="1.0" encoding="UTF-8"?>
+<suite name="iOS UI testing">
+    <test name="Recording tests" parallel="methods" thread-count="1">
+        <classes>
+            <class name="net.appscope.RecordingTest"/>
+        </classes>
+    </test>
+</suite>
